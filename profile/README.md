@@ -7,7 +7,7 @@ Nous concevons, produisons et diffusons des véhicules sans permis (voiturettes)
 
 Basé à Abrest, au cœur de l'Auvergne, Ligier Group conçoit et fabrique ses véhicules en France et les distribue à travers un réseau de concessionnaires en Europe et à l'international.
 
-🌐 [ligier.group](https://ligier.group) · 📍 Abrest, France
+🌐 [ligier.fr](https://ligier.fr) · 📍 Abrest, France
 
 ---
 
