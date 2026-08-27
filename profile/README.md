@@ -1,4 +1,4 @@
-![Ligier Group](https://media.ligier.fr/app/uploads/2022/06/Ligier-group-couleur-HD.png)
+<img src="https://media.ligier.fr/app/uploads/2022/06/Ligier-group-couleur-HD.png" alt="Ligier Group" width="280">
 
 # Ligier Group
 
