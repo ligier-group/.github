@@ -21,8 +21,8 @@ Basé à Abrest, au cœur de l'Auvergne, Ligier Group conçoit et fabrique ses v
 
 Chez Ligier Group, on a une équipe de devs trop cool, qui accompagne la transformation numérique d'un constructeur automobile français en pleine reconquête.
 
-Envie de nous rejoindre ? Nos offres sont ici : **[Nos offres d'emploi - LIGIER GROUP](https://ligiergroup.taleez.com/)**
+Envie de nous rejoindre ? Nos offres sont ici : **[Nos offres d'emploi](https://ligiergroup.taleez.com/)**
 
 ## Contact
 
-Pour toute question relative à notre organisation GitHub : **[Contactez-nous - Ligier](https://www.ligier.fr/contact/)**
+Pour toute question relative à notre organisation GitHub : **[Contactez-nous](https://www.ligier.fr/contact/)**
